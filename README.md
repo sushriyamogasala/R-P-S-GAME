@@ -6,3 +6,5 @@ You may have played rock paper scissors before. Maybe you’ve used it to decide
 - Rock smashes scissors.
 - Paper covers rock.
 - Scissors cut paper.
+### Screenshot :
+![image](https://user-images.githubusercontent.com/104165177/192013627-3c938716-f20b-4d96-a503-5a00d3b02de5.png)
